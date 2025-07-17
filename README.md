@@ -12,15 +12,15 @@ I've worked on solutions for both B2B and B2C clients. Whether you need a conver
 I specialize in:
 <br/>
 <br/>
-	• Platform Migrations - Shopify, WooCommerce, Next.js Commerce
-	• Custom App & Extenshion Development - Shopify(Functions/API), WooCommerce(Plugins/Custom Hooks)
-	• Headless Commerce - React, Next.js, Vue, Nuxt, VueStorefront, Hydrogen, REST/GraphQL APIs
-	• Frontend Development - Custom Shopify themes, WooCommerce custom themes: Responsive design using Figma/Adobe XD
-	• Backend Development - PHP (Laravel, Zend), Node.js, MySQL, REST/GraphQL APIs
-	• ERP & PIM Integrations – NetSuite, SAP, Microsoft Dynamics, Akeneo, Plytix
-	• Subscription & Quote Systems – Shopify Subscriptions, ReCharge, Bold, Request-a-Quote tools
-	• Internationalisation & Compliance – Shopify Markets, GDPR, ADA/WCAG, tax & currency setup
-	• Troubleshooting and ongoing technical support
+	• Platform Migrations - Shopify, WooCommerce, Next.js Commerce<br/>
+	• Custom App & Extenshion Development - Shopify(Functions/API), WooCommerce(Plugins/Custom Hooks)<br/>
+	• Headless Commerce - React, Next.js, Vue, Nuxt, VueStorefront, Hydrogen, REST/GraphQL APIs<br/>
+	• Frontend Development - Custom Shopify themes, WooCommerce custom themes: Responsive design using Figma/Adobe XD<br/>
+	• Backend Development - PHP (Laravel, Zend), Node.js, MySQL, REST/GraphQL APIs<br/>
+	• ERP & PIM Integrations – NetSuite, SAP, Microsoft Dynamics, Akeneo, Plytix<br/>
+	• Subscription & Quote Systems – Shopify Subscriptions, ReCharge, Bold, Request-a-Quote tools<br/>
+	• Internationalisation & Compliance – Shopify Markets, GDPR, ADA/WCAG, tax & currency setup<br/>
+	• Troubleshooting and ongoing technical support<br/>
 
 If you're looking for a dependable, easy-to-work-with developer who understands business sides of e-commerce, I'd love to hear about your project.
 
