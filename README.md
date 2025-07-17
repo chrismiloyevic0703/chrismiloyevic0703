@@ -5,23 +5,19 @@
 </div> 
   
 
-� Hi there! I’m a Senior Full Stack Developer with over 12 years of experience in web development.
+Hi there! I’m a Senior Full Stack Developer with over 12 years of experience in web development.
 
-� I specialize in:
+I specialize in:
 <br/>
 <br/>
-	•	Frontend: React | Angular | Vue | Next.js | Redux | RxJS | NgRx | NuxtJS | BootStrap | Material UI | Tailwind CSS | SASS/SCSS<br/>
-	•	Backend: Node.js | Express.js | Python | C#/.NET | Java (Spring Boot) | Flask<br/>
-	•	Databases: MongoDB | PostgreSQL | MySQL | Firebase<br/>
-	•	DevOps: AWS | Azure | GCP | Docker | CI/CD<br/>
+	• Frontend: React | Angular | Vue | Next.js | Redux | RxJS | NgRx | NuxtJS | BootStrap | Material UI | Tailwind CSS | SASS/SCSS<br/>
+	• Backend: Node.js | Express.js | Python | C#/.NET | Java (Spring Boot) | Flask<br/>
+	• Databases: MongoDB | PostgreSQL | MySQL | Firebase<br/>
+	• DevOps: AWS | Azure | GCP | Docker | CI/CD<br/>
 
-� I love building clean, maintainable code and solving complex problems—from user-friendly UI design to robust backend architecture.
+I love building clean, maintainable code and solving complex problems—from user-friendly UI design to robust backend architecture.
 
-�️ Currently working on:<br/>
-	•	AI integration into business workflows<br/>
-	•	Optimizing performance in real-time web apps<br/>
-
-� Let’s connect! I’m always open to interesting collaborations or freelance opportunities.
+Let’s connect! I’m always open to interesting collaborations or freelance opportunities.
 
 <br/>  
 
@@ -105,19 +101,7 @@
 <br/>  
 
 
-## � Projects
-
-### [Free React landing page template](https://cruip.com/demos/open-pro)
-[![Free React landing page template](https://github.com/topdev70/readme-images/blob/main/React-NextJS.png?raw=true)](https://cruip.com/demos/open-pro)
-Open is a free React landing page template designed for developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
-
-### [NextJS Material Dashboard](https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
-[![NextJS Material Dashboard](https://github.com/topdev70/readme-images/blob/main/NextJS-MaterialUI.jpg?raw=true)](https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
-NextJS Material Dashboard is a free Material-UI, NextJS and React Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. NextJS Material Dashboard was built over the popular Material-UI, NextJS and React frameworks.
-
-### [Full Stack E-Commerce MERN APP](https://payment-order-full-stack-ecommerce-q4nq.vercel.app/)
-[![Full Stack E-Commerce MERN APP](https://github.com/topdev70/readme-images/blob/main/MERN-ECommerce.png?raw=true)](https://payment-order-full-stack-ecommerce-q4nq.vercel.app/)
-This Full-Stack E-Commerce MERN APP is a comprehensive web application built using the MERN stack: MongoDB, Express.js, React, and Node.js. It provides a seamless shopping experience with robust features and responsive design.
+## Projects
 
 ---
 
