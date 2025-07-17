@@ -5,7 +5,9 @@
 </div> 
   
 
-Hi there! I’m a Senior Full Stack Developer with over 12 years of experience in web development.
+I am Chris, an expert with Shopify and WooCommerce e-commerce builds - from scratch, theme-based, or headless setups.
+
+I've worked on solutions for both B2B and B2C clients. Whether you need a conversion-optimized storefront, advanced API integrations, or help troubleshooting a stubborn checkout issue, I deliver fast, clean, and user-friendly solutions.
 
 I specialize in:
 <br/>
@@ -29,7 +31,7 @@ Let’s connect! I’m always open to interesting collaborations or freelance op
 
 ### Frontend  
 <div align="center">  
-<a href="https://www.shopify.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/shopify.png" alt="Shopify" height="50" /></a>  
+<a href="https://www.shopify.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" alt="Shopify" height="50" /></a> 
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 <a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
