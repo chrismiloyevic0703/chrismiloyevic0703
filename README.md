@@ -120,11 +120,6 @@ Redesigned and rebuilt a legacy buy box on a Shopify Plus store to support both 
 [![Free React landing page template](https://github.com/chrismiloyevic/chrismiloyevic/blob/main/react-nextjs.jpg?raw=true)](https://cruip.com/demos/open-pro)
 Open is a free React landing page template designed for developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
 
-### [NextJS Material Dashboard](https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
-[![NextJS Material Dashboard](https://github.com/chrismiloyevic/chrismiloyevic/blob/main/nextjs-materialui.jpg?raw=true)](https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
-
-NextJS Material Dashboard is a free Material-UI, NextJS and React Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. NextJS Material Dashboard was built over the popular Material-UI, NextJS and React frameworks.
----
 
 ---
 
