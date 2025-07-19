@@ -107,6 +107,24 @@ If you're looking for a dependable, easy-to-work-with developer who understands 
 
 ## Projects
 
+### [Shopify Theme Customization & Cross-Device Optimization](https://unravelled.store/)
+[![Shopify Theme Customization & Cross-Device Optimization](https://github.com/chrismiloyevic/chrismiloyevic/blob/main/unravelled-shopify.png?raw=true)](https://unravelled.store/)
+Worked with a growing e-commerce brands to fix and optimize within their custom Shopify theme. I addressed issues in the funnel flow, implemented responsive design improvements and optimized the experience to ensure smooth performance across various browsers and devices.
+Additionally, I supported ongoing Klaviyo integration helping ensure that email marketing flows and tracking aligned properly with the funnel steps.
+
+### [Shopify Plus Custom BuyBox with Subscription & One-Time Purchase Logic](https://nourishednaturalhealth.com/)
+[![Shopify Plus Custom BuyBox with Subscription & One-Time Purchase Logic](https://github.com/chrismiloyevic/chrismiloyevic/blob/main/nourishednaturalhealth.png?raw=true)](https://nourishednaturalhealth.com/)
+Redesigned and rebuilt a legacy buy box on a Shopify Plus store to support both Skio-powered subscriptions and one-time purchases. Implemented dynamic pricing logic, savings display and product variant handling across multiple bundles. Ensured clean UI, responsive layout and smooth integration with existing theme. Final implementation improved user flow.
+
+### [Free React landing page template](https://cruip.com/demos/open-pro)
+[![Free React landing page template](https://github.com/chrismiloyevic/chrismiloyevic/blob/main/React-NextJS.jpg?raw=true)](https://cruip.com/demos/open-pro)
+Open is a free React landing page template designed for developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
+
+### [NextJS Material Dashboard](https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
+[![NextJS Material Dashboard](https://github.com/chrismiloyevic/chrismiloyevic/blob/main/nextjs-materialui.jpg?raw=true)](https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
+NextJS Material Dashboard is a free Material-UI, NextJS and React Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. NextJS Material Dashboard was built over the popular Material-UI, NextJS and React frameworks.
+---
+
 ---
 
 </div>  
