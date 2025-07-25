@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/topdev70">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=600&center=false&vCenter=true&lines=Shopify+WooCommerce+Full-Stack+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=600&center=false&vCenter=true&lines=Shopify+/+WooCommerce+/+Full-Stack+Expert" alt="Typing SVG" />
   </a>
 </div> 
   
