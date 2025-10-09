@@ -5,24 +5,11 @@
 </div> 
   
 
-I am Chris, an expert with Shopify and WooCommerce e-commerce builds - from scratch, theme-based, or headless setups.
+I'm a senior developer with 12 years of experience across full-stack web development and eCommerce. My work spans from architecting scalable backend systems and polished frontends to building high-converting Shopify and Shopify Plus stores.
 
-I've worked on solutions for both B2B and B2C clients. Whether you need a conversion-optimized storefront, advanced API integrations, or help troubleshooting a stubborn checkout issue, I deliver fast, clean, and user-friendly solutions.
+I focus on clean code, reliable architectures, and solutions that create measurable business impact. Whether it's a custom web application, a tailored Shopify theme, or an advanced integration, I bring both technical depth and a product-minded approach to every project.
 
-I specialize in:
-<br/>
-<br/>
-	• Platform Migrations - Shopify, WooCommerce, Next.js Commerce<br/>
-	• Custom App & Extenshion Development - Shopify(Functions/API), WooCommerce(Plugins/Custom Hooks)<br/>
-	• Headless Commerce - React, Next.js, Vue, Nuxt, VueStorefront, Hydrogen, REST/GraphQL APIs<br/>
-	• Frontend Development - Custom Shopify themes, WooCommerce custom themes: Responsive design using Figma/Adobe XD<br/>
-	• Backend Development - PHP (Laravel, Zend), Node.js, MySQL, REST/GraphQL APIs<br/>
-	• ERP & PIM Integrations – NetSuite, SAP, Microsoft Dynamics, Akeneo, Plytix<br/>
-	• Subscription & Quote Systems – Shopify Subscriptions, ReCharge, Bold, Request-a-Quote tools<br/>
-	• Internationalisation & Compliance – Shopify Markets, GDPR, ADA/WCAG, tax & currency setup<br/>
-	• Troubleshooting and ongoing technical support<br/>
-
-If you're looking for a dependable, easy-to-work-with developer who understands business sides of e-commerce, I'd love to hear about your project.
+Clients appreciate my clear communication, colaborative style, and commitment to delivering results. If you're looking for a dependable developer who can turn concepts into working solutions - let's connect.
 
 <br/>  
 
