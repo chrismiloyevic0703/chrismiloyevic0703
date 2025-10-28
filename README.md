@@ -5,7 +5,7 @@
 </div> 
   
 
-I'm a senior developer with 12 years of experience across full-stack web development and eCommerce. My work spans from architecting scalable backend systems and polished frontends to building high-converting Shopify and Shopify Plus stores.
+I'm a senior developer with 15 years of experience across full-stack web development and eCommerce. My work spans from architecting scalable backend systems and polished frontends to building high-converting Shopify and Shopify Plus stores.
 
 I focus on clean code, reliable architectures, and solutions that create measurable business impact. Whether it's a custom web application, a tailored Shopify theme, or an advanced integration, I bring both technical depth and a product-minded approach to every project.
 
