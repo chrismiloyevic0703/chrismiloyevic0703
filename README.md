@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/topdev70">
+  <a href="https://github.com/chrismiloyevic0703">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=600&center=false&vCenter=true&lines=Senior+Full-Stack+Shopify+Developer" alt="Typing SVG" />
   </a>
 </div> 
