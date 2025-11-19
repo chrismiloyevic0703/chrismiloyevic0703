@@ -9,8 +9,6 @@ I'm a senior developer with 15 years of experience across full-stack web develop
 
 I focus on clean code, reliable architectures, and solutions that create measurable business impact. Whether it's a custom web application, a tailored Shopify theme, or an advanced integration, I bring both technical depth and a product-minded approach to every project.
 
-Clients appreciate my clear communication, colaborative style, and commitment to delivering results. If you're looking for a dependable developer who can turn concepts into working solutions - let's connect.
-
 <br/>  
 
 
