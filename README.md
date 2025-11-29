@@ -99,10 +99,6 @@ Additionally, I supported ongoing Klaviyo integration helping ensure that email 
 [![Shopify Plus Custom BuyBox with Subscription & One-Time Purchase Logic](https://github.com/chrismiloyevic0703/chrismiloyevic0703/blob/main/nourishednaturalhealth.png?raw=true)](https://nourishednaturalhealth.com/)
 Redesigned and rebuilt a legacy buy box on a Shopify Plus store to support both Skio-powered subscriptions and one-time purchases. Implemented dynamic pricing logic, savings display and product variant handling across multiple bundles. Ensured clean UI, responsive layout and smooth integration with existing theme. Final implementation improved user flow.
 
-### [Free React landing page template](https://cruip.com/demos/open-pro)
-[![Free React landing page template](https://github.com/chrismiloyevic0703/chrismiloyevic0703/blob/main/react-nextjs.jpg?raw=true)](https://cruip.com/demos/open-pro)
-Open is a free React landing page template designed for developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
-
 
 ---
 
